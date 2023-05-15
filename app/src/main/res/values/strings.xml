@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">컨트롤러</string>
+    <string name="서보제어">/서보제어</string>
+    <string name="블루투스">블루투스 연결</string>
+    <string name="기기명">Null</string>
+    <string name="출력정지">출력 0</string>
+
+
+
+
+
+
+</resources>
